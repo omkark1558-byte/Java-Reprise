@@ -13,8 +13,10 @@ public class Noprimitive {
 	 arr[4]=58;
 	 arr[5]=89;
 	 
-	System.out.println(arr);
-	 
+	System.out.println(arr[5]);
+	
+	System.out.println("*****************");
+	
 	 char[] single=new char[6];
 	 
 	 single[0]='O';
@@ -24,7 +26,9 @@ public class Noprimitive {
 	 single[4]='R';
 	 single[5]='K';
 	 
-//	 System.out.println(single);
+	 System.out.println(single);
+	 
+	 System.out.println("!......& & & & & & &.......!");
 	 
 	 String[] Names=new String[2];
 	 Names[0]="Omkar";

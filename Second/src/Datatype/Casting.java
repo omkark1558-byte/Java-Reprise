@@ -1,11 +1,16 @@
 package Datatype;
-//Source code is decompiled from a .class file using FernFlower decompiler
 
-public class Casting {
-public Casting() {
-}
-
-public static void main(String[] args) {
+public class Casting 
+{
+public static void main(String[] args) 
+{
+	
+	String o="Youuuu..!";
+	
+	System.out.println(o);
+	
+	System.out.println("&&&........!!!!");
+	
    double d = 12.25;
    
    System.out.println(d);
@@ -14,12 +19,17 @@ public static void main(String[] args) {
    
    System.out.println(i);
    
+   System.out.println("&&&........!!!!");
+   
    int J = 70;
    
-   System.out.println(i);
+   System.out.println(J);
    
-   double H = 45.0;
+   double H = 45.1234567;
    
-   System.out.println(d);
+   System.out.println(H);
+   
+   System.out.println("&&&........!!!!");
+
 }
 }
