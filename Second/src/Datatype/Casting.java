@@ -1,13 +1,13 @@
 package Datatype;
 
-public class Casting 
-{
-public static void main(String[] args) 
-{
+
+public class Casting {
 	
-	String o="Youuuu..!";
+public static void main(String[] args) {
 	
-	System.out.println(o);
+	
+		String o="Youuuu..!";
+		System.out.println(o);
 	
 	System.out.println("&&&........!!!!");
 	

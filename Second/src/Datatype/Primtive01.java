@@ -16,12 +16,12 @@ public class Primtive01 {
 	
 	
 	String[] you=new String[30];
-	you[0]="kiii";
-	you[1]="juu";
-	you[2]="kii";
-	you[3]="yiiir";
-	you[4]="eoels";
-	you[5]="jsjdsio";
+	you[0]="Uk";
+	you[1]="JRE";
+	you[2]="BM";
+	you[3]="JDK";
+	you[4]="PM";
+	you[5]="JVM";
 
 	you[29]="yuuu0";
 	
