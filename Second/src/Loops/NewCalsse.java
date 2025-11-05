@@ -43,5 +43,6 @@ public class NewCalsse {
 				System.out.println("Known One..!");
 				 
 		}
+		sc.close();
 	}
 }

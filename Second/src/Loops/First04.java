@@ -36,6 +36,7 @@ public class First04 {
 		
 			System.out.println("You Are A Invalied Valuee.....! Plzz Check The Value >>.....!");
 		//	break;
-		}
+			}
+		sc.close();
 		}
 	}

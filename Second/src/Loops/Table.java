@@ -16,7 +16,7 @@ public class Table {
 		
 		int num=sc.nextInt();
 		
-		//	int num=0;
+//			 num=0;
 		
 		
 		for(int i=0;i<=10;i++)
@@ -27,6 +27,8 @@ public class Table {
 			System.out.print(i*Multi+" ");
 		}
 		System.out.println("->-");
-		}	
+		}
+		System.out.println("Enter range " + num);
+		sc.close();
 	}
 }

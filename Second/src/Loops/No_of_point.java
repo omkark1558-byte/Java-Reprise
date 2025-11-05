@@ -1,6 +1,6 @@
 package Loops;
 
-public class NoOfpoint {
+public class No_of_point {
 	
 	public static void main(String[] args) {
 	

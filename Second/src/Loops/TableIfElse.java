@@ -24,5 +24,6 @@ public class TableIfElse {
 			System.out.println(Number + "x" + i + " = " + Result + "-->ODD");
 			}
 		}
+		sc.close();
 	}
 }
