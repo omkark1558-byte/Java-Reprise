@@ -19,7 +19,6 @@ public class Check_Panildrom_Nu {
 		}
 		else
 			System.out.println("Not Palindrom ...!");
-
 	}
 
 }
